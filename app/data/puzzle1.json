@@ -1,0 +1,45 @@
+
+
+{
+    "puzzleId": "001",
+    "difficulty": "medium",
+    "categories": [
+      {
+        "label": "Artist with Multiple Diamond Records ",
+        "artists": [
+          { "name": "The Weeknd", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIzzyM3zDJn7IKefI6dyNRYtpYrY1WUENHQ&s" },
+          { "name": "Post Malone", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlka18NJRP54AmL_iujTmbfBUoH5iy4LQsg&s" },
+          { "name": "Drake", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGBjicwJyqGGhjGdxeCxIaXkofDOBdu5Muw&s" },
+          { "name": "Future", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGipwk8NQeLA2tTI5AwWUsI_25vl6sen39Rg&s" }
+        ]
+      },
+      {
+        "label": "27 Club",
+        "artists": [
+          { "name": "Whiney Houston", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8bItN9vTs-K9pQQHvuZZWexUpL7xu_CNzw&s" },
+          { "name": "Amy Whine House", "image": "https://www.pngarts.com/files/8/Amy-Winehouse-Transparent-Background-PNG.png" },
+          { "name": "Jimmy Hendrix", "image": "https://openclipart.org/image/800px/236716" },
+          { "name": "Kurt Cobain", "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/164d5514-ad89-4d7f-8438-fe278685c626/dgbnt6e-134e4835-4b5f-49ab-b8bd-7fc73330e680.png/v1/fill/w_1095,h_730/nirvana_kurt_cobain_unplugged_mtv_png_transparent_by_deadnie1_dgbnt6e-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMTY0ZDU1MTQtYWQ4OS00ZDdmLTg0MzgtZmUyNzg2ODVjNjI2XC9kZ2JudDZlLTEzNGU0ODM1LTRiNWYtNDlhYi1iOGJkLTdmYzczMzMwZTY4MC5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.a428uQhCLlFEUHSg_uNIfDrpqdTQHwViZpW0KZS4D2g" }
+        ]
+      },
+      {
+        "label": "Music Producers",
+        "artists": [
+          { "name": "Mike Dean", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSj8wnTUceWDICBnEFhaFYIi_4hY9rlkP-Tg&s" },
+          { "name": "Pharrell", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8zp-ByudGF7vcaDcrsnvbvhuFqFTEo6x0g&s" },
+          { "name": "Metro Boomin", "image": "https://officialpsds.com/imageview/7m/8w/7m8wjp_large.png?1521316580" },
+          { "name": "Kevin Parker", "image": "https://preview.redd.it/1ddqy1lqsdm31.png?width=640&crop=smart&auto=webp&s=1dffe5f1d82d193fbdcd9639f516c14af8428809" }
+        ]
+      },
+      {
+        "label": "Bush Lado Top 5",
+        "artists": [
+          { "name": "Nav", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBDvEPtMpwoOeXlk-xZySwXPrEoZUJsNirFA&s" },
+          { "name": "Logic", "image": "https://www.nicepng.com/png/detail/88-883769_logic-png-rap-rapper-hiphop-hopsin-futuristic-singer.png" },
+          { "name": "Lupe Fiasco", "image": "https://officialpsds.com/imageview/7x/89/7x89n7_large.png?1521316457" },
+          { "name": "Sade", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5dh90nnXqNcqBmc-WPoJEisyBYKjqZp9N9w&s" }
+        ]
+      }
+    ]
+  }
+  
